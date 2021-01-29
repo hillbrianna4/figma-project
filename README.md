@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Project Information 
 This project was made using Create-React-App.
 
 This is a Task mangement Application used to Manage tasks or upcoming events. This projet includes the current date, The task item states: Pending and Completed and priority list of low, medium and high tasks.
